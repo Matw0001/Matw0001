@@ -1,7 +1,7 @@
 # 💬 *Olá, me chamo Wilcles* 
 ## ✅ *Bem-vindo ao meu perfil GitHub!*
 
-💻 - Atualmente estou estudando programação na Alura.
+💻 - Atualmente estou estudando programação.
 
 ## ⚙ *Ferramentas que uso*
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="40" height="40" />
